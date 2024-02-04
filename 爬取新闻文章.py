@@ -1,8 +1,6 @@
-import urllib.request
 import re
 import requests
 from bs4 import BeautifulSoup
-from time import sleep
 from configparser import ConfigParser
 import glob
 
